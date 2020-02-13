@@ -1,1 +1,1 @@
-# NLP-ASSIGNMENT-1
+This paper presented an approach for performing data visualization for printing the records of dataset and plotting the features of the dataset and implementing a 1D convolutional network on housing values and predicting the future price.
